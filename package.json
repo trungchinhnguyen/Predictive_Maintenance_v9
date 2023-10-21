@@ -4,7 +4,7 @@
   "engines": {
     "npm": "9.8.1",
     "node": "v18.18.0"
-    },
+  },
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
