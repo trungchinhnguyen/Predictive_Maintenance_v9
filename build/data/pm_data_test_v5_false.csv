@@ -1,0 +1,2 @@
+time,data,machine ID,model ID,age,hourly average voltage,hourly average rotation,hourly average pressure,hourly average vibration
+12:00:00,10/13/2015,13,model1,15,139.367607,493.855103,117.13493,42.319452
